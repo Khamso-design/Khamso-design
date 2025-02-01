@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @Khamso-design AI enthusiast learning trading strategies
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-Khamso-design/Khamso-design is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Khamso-design
+👋 Hi, I’m @Khamso-design  
+👀 I’m currently learning AI and applying it to trading  
+🌱 I'm working on predictive models for trading strategies and analyzing market trends using AI  
+💞️ Looking to collaborate on AI and trading projects  
+📫 You can reach me via GitHub or email  
+⚡ Fun fact: I'm passionate about using AI to make informed trading decisions
